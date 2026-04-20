@@ -31,7 +31,7 @@ LeetCode,https://leetcode.com,学习
 Coursera,https://www.coursera.org,学习
 网易公开课,https://open.163.com,学习
 临时邮箱,https://xiaobo6666.free.nf,邮箱
-小波音乐,https://dongbonidhao.github.io/music-player,小波音乐
+小波音乐,https://dongbonidhao.github.io/music-player,https://xiaobomusic666.free.nf/,小波音乐
 小波全网盘搜,http://xiaobopansou888.free.nf,网盘搜
 小波电影网站,https://bo188.kdhjdgjhfgdhgf.dpdns.org,电影网站
 免费电影,https://www.bttian.com/,免费电影
